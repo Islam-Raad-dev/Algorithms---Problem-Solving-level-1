@@ -1,44 +1,37 @@
-# 📘 Algorithms and Problem Solving – Level 1
+# 📘 Algorithms & Problem Solving – Level 1 (Solutions)
+> **"From Spaghetti Code to Clean, Controlled, and Scalable Solutions"**
 
-> **"Programming is not a programming language. A programming language is only a tool. Programming is the art of thinking."**
+## 🎯 Overview
+This repository contains my solutions for the **Algorithms & Problem Solving – Level 1** course by **Eng. Mohammed Abu-Hadhoud**. This is the 4th and most critical course in my programming journey, marking the transition from a "code writer" to a "professional programmer."
 
-This repository contains my solutions and progress in the **Algorithms and Problem Solving (Level 1)** course, part of the "Programmer's Roadmap" by Eng. Mohammed Abu-Hadhoud.
-
-## 🗝️ About This Course
-This course is the foundation of my programming journey. It focuses on the most critical skill for any software or AI engineer: **How to think and solve problems correctly.** The core philosophy here is to **"Learn How to Think Before You Learn How to Code."** I spent this level focusing entirely on logic and problem analysis without being distracted by any programming language syntax.
-
----
-
-## 📖 What I Have Learned
-Through this level, I have mastered the following skills:
-* **Problem Analysis:** Breaking down complex problems into simple, manageable steps.
-* **Algorithmic Thinking:** Designing step-by-step solutions logically.
-* **Flowcharts:** Using visual tools to represent logic, decision-making, and processes.
-* **Logic Design:** Identifying Inputs, Processes, Decisions, and Outputs for any given problem.
-* **Independent Thinking:** Solving problems without relying on code syntax.
+The core focus of this repository is not just finding the correct output, but mastering **Code Structure**, **Readability**, and **Maintainability**.
 
 ---
 
-## 🧱 Course Structure & Practice
-This course is 100% practice-driven. It consists of **50 carefully selected problems** that I solved using:
-1. **Logical Analysis:** Understanding the requirements and constraints.
-2. **Step-by-Step Reasoning:** Writing down the logical flow.
-3. **Flowcharts:** Visualizing the solution.
-
-> 🚫 **Note:** No programming language (like C++ or Python) was used in this level to ensure a deep focus on the "Thinking Process" only.
-
----
-
-## 🧠 Why This Level Matters to Me
-As a student of **Artificial Intelligence**, I believe that a strong mental foundation in algorithms is what separates a regular coder from a top-tier engineer. These 50 problems have prepared me perfectly for the next step: **C++ Problem Solving.**
+## 🗝️ Learning Philosophy: The "Clean Code" Shift
+In this level, I re-solved 50 fundamental problems with a completely new mindset:
+* **Divide and Conquer:** Breaking large, complex problems into small, manageable sub-problems.
+* **Functions as Building Blocks:** Designing small, focused, and reusable functions.
+* **Eliminating Redundancy:** Writing DRY (Don't Repeat Yourself) code to reduce complexity.
+* **Scalability:** Building logic that can grow without collapsing.
 
 ---
 
-## 🏅 Certification
-Upon completion, this repository serves as proof of my readiness for coding-based problem solving, verifying my ability to:
-- Explain what algorithms are.
-- Design clear solutions using flowcharts.
-- Approach problems with structure and confidence instead of "trial-and-error".
+## 🛠️ Skills Acquired
+| Skill | Description |
+| :--- | :--- |
+| **Modular Programming** | Designing independent functions to perform specific tasks. |
+| **Problem Analysis** | Breaking down 50 problems into logical sub-components. |
+| **Logic Control** | Managing code complexity as the program grows. |
+| **Maintainability** | Writing code that is easy to debug, fix, and enhance. |
+
+---
+
+## 🧱 Repository Structure
+Each problem in this repository follows a structured approach:
+1.  **Analysis:** Understanding the inputs and required logic.
+2.  **Decomposition:** Breaking the logic into sub-problems.
+3.  **Implementation:** Connecting functions as building blocks.
 
 ---
 *“Great programmers are great thinkers first.”*
