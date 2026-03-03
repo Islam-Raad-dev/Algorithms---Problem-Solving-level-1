@@ -1,5 +1,4 @@
-# 📘 Algorithms & Problem Solving – Level 1 (Solutions)
-> **"From Spaghetti Code to Clean, Controlled, and Scalable Solutions"**
+# 📘 Algorithms & Problem Solving – Level 1
 
 ## 🎯 Overview
 This repository contains my solutions for the **Algorithms & Problem Solving – Level 1** course by **Eng. Mohammed Abu-Hadhoud**. This is the 4th and most critical course in my programming journey, marking the transition from a "code writer" to a "professional programmer."
