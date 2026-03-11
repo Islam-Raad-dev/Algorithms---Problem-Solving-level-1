@@ -6,7 +6,7 @@ using namespace std;
 void PrintName(string Name)
 {
   
-    cout << "\n Your Name is: " << Name << endl;
+    cout << "\n Your Name is : " << Name << endl;
 }
 
 
