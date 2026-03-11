@@ -6,14 +6,14 @@ using namespace std;
 void ReadNumbers(int &Mark1, int &Mark2, int &Mark3)
 {
   
-    cout << "Please enter Mark 1 ? " << endl;
+    cout << "Please enter Mark 1 : " << endl;
     cin >> Mark1;
 
 
-    cout << "Please enter Mark 2 ? " << endl;
+    cout << "Please enter Mark 2 : " << endl;
     cin >> Mark2;
     
-    cout << "Please enter Mark 3 ? " << endl;
+    cout << "Please enter Mark 3 : " << endl;
     cin >> Mark3;
 }
 
