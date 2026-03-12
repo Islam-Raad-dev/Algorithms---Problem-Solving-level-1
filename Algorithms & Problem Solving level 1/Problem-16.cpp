@@ -7,11 +7,11 @@ using namespace std;
 void ReadNumbers(float& A, float& D)
 {
  
-    cout << "Please enter rectangle side A ? " << endl;
+    cout << "Please enter rectangle side A: " << endl;
     cin >> A;
 
 
-    cout << "Please enter rectangle diagonal D ? " << endl;
+    cout << "Please enter rectangle diagonal D: " << endl;
     cin >> D;
 }
 
