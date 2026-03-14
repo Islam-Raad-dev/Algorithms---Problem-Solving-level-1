@@ -12,7 +12,7 @@ int ReadNumber()
     int Num; 
 
 
-    cout << "Please enter a Number: " << endl;
+    cout << "Please Enter a Number: " << endl;
 
     cin >> Num;
 
