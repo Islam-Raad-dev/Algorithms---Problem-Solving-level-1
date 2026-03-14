@@ -7,7 +7,7 @@ using namespace std;
 void ReadNumbers(float& A, float& B)
 {
     
-    cout << "Please enter rectangle width A ? " << endl;
+    cout << "Please enter rectangle width A: " << endl;
     cin >> A;
 
 
