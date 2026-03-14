@@ -6,7 +6,7 @@ using namespace std;
 void ReadNumbers(int& Num1, int& Num2)
 {
    
-    cout << "Please enter Number A ? " << endl;
+    cout << "Please enter Number A: " << endl;
     cin >> Num1;
 
  
