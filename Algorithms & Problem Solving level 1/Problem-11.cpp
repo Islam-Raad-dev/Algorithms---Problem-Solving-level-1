@@ -10,7 +10,7 @@ enum enPassFail { Pass = 1, Fail = 2 };
 void ReadNumbers(int& Mark1, int& Mark2, int& Mark3)
 {
    
-    cout << "Please enter Mark 1 ? " << endl;
+    cout << "Please enter Mark 1: " << endl;
     cin >> Mark1;
 
     cout << "Please enter Mark 2 ? " << endl;
