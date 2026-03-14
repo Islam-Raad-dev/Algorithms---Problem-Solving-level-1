@@ -11,7 +11,7 @@ void ReadNumbers(int &Num1, int &Num2, int &Num3)
     cin >> Num1;
 
 
-    cout << "Please enter your Number 2 : " << endl;
+    cout << "Please enter your Number 2: " << endl;
     cin >> Num2;
     
  
