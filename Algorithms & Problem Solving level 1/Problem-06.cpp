@@ -11,7 +11,7 @@ struct stInfo
 
 stInfo ReadInfo()
 {
-    stInfo Info;  
+    stInfo Info ;  
 
   
     cout << "Please Enter Your First Name: " << endl;
