@@ -2,7 +2,7 @@
 #include <string>    
 #include <cmath>      // Include cmath to use floor() for calculations.
 
-using namespace std;  // Use the standard namespace to avoid prefixing std:: to standard functions.
+using namespace std;  
 
 // Struct: strTaskDuration
 // Purpose: Represents the duration of a task in days, hours, minutes, and seconds.
