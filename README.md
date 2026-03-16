@@ -8,7 +8,7 @@ The core focus of this repository is not just finding the correct output, but ma
 ---
 
 ##  Learning Philosophy: The "Clean Code" Shift
-In this level, I re-solved 50 fundamental problems with a completely new mindset:
+In this level, I Re-solved 50 fundamental problems with a completely new mindset:
 * **Divide and Conquer:** Breaking large, complex problems into small, manageable sub-problems.
 * **Functions as Building Blocks:** Designing small, focused, and reusable functions.
 * **Eliminating Redundancy:** Writing DRY (Don't Repeat Yourself) code to reduce complexity.
