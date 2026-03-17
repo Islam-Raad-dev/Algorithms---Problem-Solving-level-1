@@ -1,7 +1,7 @@
 #include <iostream>   // Include iostream for input/output operations.
 #include <string>     // Include string for potential future use.
 
-using namespace std;  // Use the standard namespace to avoid prefixing std:: to standard functions.
+using namespace std;  // Use the standard namespace to avoid prefix ing std:: to standard functions.
 
 // Function: ReadNumber
 // Purpose: Prompts the user to enter a number and reads it from input.
