@@ -57,7 +57,7 @@ int main()
     {
         system("color 4F");  // Change console text to red (Windows-specific).
         cout << "\nYour card is blocked. Call the bank for help.\n";  // Notify the user of blocked access.
-    }
+    } 
 
     return 0;  // Return 0 to indicate successful execution.
 }
