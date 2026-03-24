@@ -6,7 +6,7 @@ using namespace std;  // Use the standard namespace to avoid prefixing std:: to 
 // Function: ReadPositiveNumber
 // Purpose: Prompts the user with a custom message to enter a positive number and ensures valid input. 
 // Parameter:
-//   - Message: A string containing the prompt message to be displayed.
+//   - Message: A string containing the prompt message to be displayed  .
 // Returns: A positive float entered by the user.
 float ReadPositiveNumber(string Message)
 {
