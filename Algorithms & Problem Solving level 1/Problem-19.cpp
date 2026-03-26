@@ -3,7 +3,7 @@
 #include <cmath>      // Include cmath to use pow() for exponentiation.
 
 using namespace std;  // Use the standard namespace to avoid prefixing std:: to standard functions.
-
+ 
 // Function: ReadDiameter
 // Purpose: Prompts the user to enter the diameter of a circle and reads it from input.
 // Returns: The entered diameter as a float.
