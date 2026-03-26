@@ -1,7 +1,7 @@
 #include <iostream>   // Include iostream for input/output operations.
 #include <string>     // Include string for potential future use.
 #include <cmath>      // Include cmath to use pow() for exponentiation.
-
+ 
 using namespace std;  // Use the standard namespace to avoid prefixing std:: to standard functions.
 
 // Function: ReadTriangleData
