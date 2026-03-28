@@ -6,7 +6,7 @@ using namespace std;
 // Returns: A string containing the entered PIN code.
 string ReadPinCode()
 {
-    string PinCode;  // Variable to store the entered PIN code.
+    string PinCode; 
 
     // Prompt the user to enter their PIN code.
     cout << "Please enter PIN code \n";
