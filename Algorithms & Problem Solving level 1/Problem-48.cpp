@@ -1,4 +1,4 @@
-#include <iostream>   // Include iostream for input/output operations.
+#include <iostream>   
 #include <string>      
 
 using namespace std;  // Use the standard namespace to avoid prefixing std:: to standard functions.
