@@ -3,7 +3,7 @@ using namespace std;
 
 // Function: ReadPinCode
 // Purpose: Prompts the user to enter a PIN code and reads it from input.
-// Returns: A string containing the entered PIN code.
+
 string ReadPinCode()
 {
     string PinCode;  // Variable to store the entered PIN code.
