@@ -1,5 +1,5 @@
-#include <iostream>   // Include iostream for input/output operations. 
-#include <string>     // Include string to handle message prompts. 
+#include <iostream>   
+#include <string>     
 
 using namespace std;  // Use the standard namespace to avoid prefixing std:: to standard functions.
 
